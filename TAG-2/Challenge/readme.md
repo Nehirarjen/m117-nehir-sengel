@@ -1,7 +1,7 @@
 # Challenge 2 – ARISTA-LAN
 
 ## Stückliste
-![Logisches Layout](Arista_Logisches_Layout.jpg)
+[Stückliste](Arista_Stückliste_Flavio_Nehir.pdf)
 
 ## Logisches Layout
 ![Logisches Layout](Arista_Logisches_Layout.jpg)
