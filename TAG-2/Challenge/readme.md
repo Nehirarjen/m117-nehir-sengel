@@ -246,35 +246,6 @@ Die Stern-Topologie:
 
 ---
 
-## Warum keine VLANs?
-
-Die Aufgabe verlangt:
-
-- kein Subnetting
-- ein gemeinsames Netzwerk
-
-Für ein kleines Büronetzwerk genügt daher ein einziges LAN.
-
----
-
-# 9. Zusammenfassung
-
-Die Anforderungen der Challenge wurden erfüllt:
-
-✔ 10 PCs vorhanden
-✔ 4 Netzwerkdrucker vorhanden
-✔ Router korrekt eingebunden
-✔ Layer-2-Switches korrekt verwendet
-✔ Keine Loops
-✔ Saubere strukturierte Verkabelung
-✔ Kein Kabel durch Sanitärbereich
-✔ Einheitliches IP-Konzept
-✔ Stückliste vollständig
-✔ Logisches Layout erstellt
-✔ Verkabelungsplan erstellt
-
----
-
 # 10. Dateinamen für die Abgabe
 
 Empfohlene Dateinamen:
