@@ -7,4 +7,4 @@
 ![Logisches Layout](Arista_Logisches_Layout.jpg)
 
 ## Verkablungsplan
-![Verkabelungsplan](Arista_Verkabelungsplan.jpg)
+![Verkabelungsplan](Verkabelungsplan.png)
