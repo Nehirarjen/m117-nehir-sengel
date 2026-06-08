@@ -1,6 +1,5 @@
 
 # Modul 117 – Kapitel 4: Dateizugriffsrechte
-## Aufgaben und Musterlösungen
 
 ---
 
