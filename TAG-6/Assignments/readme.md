@@ -27,7 +27,7 @@ Challenge-5
 | `g_tech` | Global: Technische Abteilung | `eva.meyer`, `felix.wagner`, `gabi.becker`, `hans.schulz`, `iris.hoffmann`, `jan.bauer` |
 | `g_all` | Global: Alle Mitarbeiter (All Staff) | *Alle 10 oben genannten Benutzerkonten* |
 
-## 3. Gruppen- und Mitgliedschaftsmatrix
+## 3. Verzeichnisstruktur- und Rechtematrix
 
 | Verzeichnisname | Besitzer (Owner) | Gruppe: `g_gl` | Gruppe: `g_hr_fi` | Gruppe: `g_tech` |
 | :--- | :--- | :--- | :--- | :--- |
